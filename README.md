@@ -29,7 +29,7 @@ For sample data: https://github.com/dsrichard97/web_dep/blob/main/appointments_s
 
 ### Personal Information
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/presonal_info.png "Personal Information")
-For sample data:
+For sample data: https://github.com/dsrichard97/web_dep/blob/main/personal_info_sampledata.csv
 
 ### Medical Records
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Medical Records")
