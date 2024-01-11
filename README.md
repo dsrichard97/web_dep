@@ -24,7 +24,7 @@ Google BigQuery allows users to store information on the cloud. As a result, the
 From connecting python code we have the following tables 
 
 ### Appointments
-![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Appointments")
+![alt text](https://github.com/dsrichard97/web_dep/blob/main/appt.png "Appointments")
 
 ### Personal Information
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/presonal_info.png "Personal Information")
