@@ -16,7 +16,7 @@ As a result since python is fast and can help us create a mock up random data sa
 - For info on random library: https://docs.python.org/3/library/random.html
 
 Here is a quick sample of the process. Due to security reasons I can not show the entiretity of the code. 
-
+![alt text](https://github.com/dsrichard97/web_dep/blob/main/dbms-image-1.png "Database Uses")
 
 ## Connecting to Google BigQuery
 
