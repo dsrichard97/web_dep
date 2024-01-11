@@ -25,12 +25,14 @@ From connecting python code we have the following tables
 
 ### Appointments
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/appt.png "Appointments")
+For sample data: 
 
 ### Personal Information
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/presonal_info.png "Personal Information")
+For sample data:
 
 ### Medical Records
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Medical Records")
-
+For sample data:
 
 ## Deployment onto WebPage
