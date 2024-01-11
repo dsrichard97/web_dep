@@ -25,7 +25,7 @@ From connecting python code we have the following tables
 
 ### Appointments
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/appt.png "Appointments")
-For sample data: 
+For sample data: https://github.com/dsrichard97/web_dep/blob/main/appointments_sampledata.csv
 
 ### Personal Information
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/presonal_info.png "Personal Information")
