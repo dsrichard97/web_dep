@@ -27,7 +27,7 @@ From connecting python code we have the following tables
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Appointments")
 
 ### Personal Information
-![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Personal Information")
+![alt text](https://github.com/dsrichard97/web_dep/blob/main/presonal_info.png "Personal Information")
 
 ### Medical Records
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Medical Records")
