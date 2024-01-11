@@ -28,7 +28,7 @@ From connecting python code we have the following tables
 For sample data: https://github.com/dsrichard97/web_dep/blob/main/appointments_sampledata.csv
 
 ### Personal Information
-![alt text](https://github.com/dsrichard97/web_dep/blob/main/presonal_info.png "Personal Information")
+![alt text](https://github.com/dsrichard97/web_dep/blob/main/personal_info.png "Personal Information")
 For sample data: https://github.com/dsrichard97/web_dep/blob/main/personal_info_sampledata.csv
 
 ### Medical Records
