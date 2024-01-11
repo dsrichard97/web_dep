@@ -6,7 +6,7 @@ Some examples:
 - user can access most of the data
 - database adminstrators can configure settings
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/dsrichard97/web_dep/blob/main/dbms-image-1.png "Database Uses")
 
 
 
