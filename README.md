@@ -33,6 +33,6 @@ For sample data: https://github.com/dsrichard97/web_dep/blob/main/personal_info_
 
 ### Medical Records
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Medical Records")
-For sample data:
+For sample data: https://github.com/dsrichard97/web_dep/blob/main/medicalrecords_sampledata.csv
 
 ## Deployment onto WebPage
