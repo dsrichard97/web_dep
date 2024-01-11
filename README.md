@@ -18,7 +18,16 @@ As a result since python is fast and can help us create a mock up random data sa
 Here is a quick sample of the process. Due to security reasons I can not show the entiretity of the code. 
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/pythongif.gif "Python Connecting to Google BigQuery")
 
-## Connecting to Google BigQuery
+## Google BigQuery Databases
+Google BigQuery allows users to store information on the cloud. As a result, the conversion of data is then pipelined to tables. These tables can then be pulled using SQL queries or creating an API engine. For more information please visit: https://cloud.google.com/bigquery/docs/share-access-views  .
+
+From connecting python code we have the following tables 
+
+### Appointments
+
+### Personal Information
+
+### Medical Records 
 
 
 
