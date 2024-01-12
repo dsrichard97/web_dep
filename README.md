@@ -23,24 +23,26 @@ Google BigQuery allows users to store information on the cloud. As a result, the
 
 From connecting python code we have the following tables 
 
-### Appointments
+### Appointments - SQL 
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/appt.png "Appointments")
 For sample data: https://github.com/dsrichard97/web_dep/blob/main/appointments_sampledata.csv
 
-### Personal Information
+### Personal Information - SQL
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/personal_info.png "Personal Information")
 For sample data: https://github.com/dsrichard97/web_dep/blob/main/personal_info_sampledata.csv
 
-### Medical Records
+### Medical Records - SQL
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Medical Records")
 For sample data: https://github.com/dsrichard97/web_dep/blob/main/medicalrecords_sampledata.csv
 
-## Deployment onto WebPage
+## Appointments - Deployment onto WebPage - HTML Conversion
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Medical Records")
 For sample data: https://github.com/dsrichard97/web_dep/blob/main/medicalrecords_sampledata.csv
 
+## Personal Information - Deployment onto WebPage - HTML Conversion
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Medical Records")
 For sample data: https://github.com/dsrichard97/web_dep/blob/main/medicalrecords_sampledata.csv
 
+## Medical Records - Deployment onto WebPage - HTML Conversion
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Medical Records")
 For sample data: https://github.com/dsrichard97/web_dep/blob/main/medicalrecords_sampledata.csv
