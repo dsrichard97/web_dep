@@ -42,4 +42,4 @@ For sample data:
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/Medical_records.png)
 
 ## Medical Records - Deployment onto WebPage - HTML Conversion
-![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Medical Records")
+![alt text](https://github.com/dsrichard97/web_dep/blob/main/Medical_records.png)
