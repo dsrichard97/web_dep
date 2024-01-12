@@ -33,13 +33,13 @@ For sample data: https://github.com/dsrichard97/web_dep/blob/main/personal_info_
 
 ### Medical Records - SQL
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Medical Records")
+For sample data:
 
 ## Appointments - Deployment onto WebPage - HTML Conversion
-![alt text](https://github.com/dsrichard97/web_dep/blob/main/Medical_records.png)
+![alt text](https://github.com/dsrichard97/web_dep/blob/main/Appointment_records.png)
 
 ## Personal Information - Deployment onto WebPage - HTML Conversion
-![alt text](https://github.com/dsrichard97/web_dep/blob/main/Appointment_records.png)
+![alt text](https://github.com/dsrichard97/web_dep/blob/main/Medical_records.png)
 
 ## Medical Records - Deployment onto WebPage - HTML Conversion
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Medical Records")
-For sample data: https://github.com/dsrichard97/web_dep/blob/main/medicalrecords_sampledata.csv
