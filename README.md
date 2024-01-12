@@ -32,10 +32,10 @@ For sample data: https://github.com/dsrichard97/web_dep/blob/main/appointments_s
 For sample data: https://github.com/dsrichard97/web_dep/blob/main/personal_info_sampledata.csv
 
 ### Medical Records - SQL
-![alt text](https://github.com/dsrichard97/web_dep/blob/main/Medical_records.png)
+![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Medical Records")
 
 ## Appointments - Deployment onto WebPage - HTML Conversion
-![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Medical Records")
+![alt text](https://github.com/dsrichard97/web_dep/blob/main/Medical_records.png)
 
 ## Personal Information - Deployment onto WebPage - HTML Conversion
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/Appointment_records.png)
