@@ -40,7 +40,7 @@ For sample data: https://github.com/dsrichard97/web_dep/blob/main/medicalrecords
 For sample data: https://github.com/dsrichard97/web_dep/blob/main/medicalrecords_sampledata.csv
 
 ## Personal Information - Deployment onto WebPage - HTML Conversion
-![alt text](https://github.com/dsrichard97/web_dep/blob/main/medical_records.png "Medical Records")
+![alt text](https://github.com/dsrichard97/web_dep/blob/main/Personal_info_records.png)
 For sample data: https://github.com/dsrichard97/web_dep/blob/main/medicalrecords_sampledata.csv
 
 ## Medical Records - Deployment onto WebPage - HTML Conversion
