@@ -39,7 +39,7 @@ For sample data:
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/Appointment_records.png)
 
 ## Personal Information - Deployment onto WebPage - HTML Conversion
-![alt text](https://github.com/dsrichard97/web_dep/blob/main/Medical_records.png)
+![alt text](https://github.com/dsrichard97/web_dep/blob/main/Personal_info_records.png)
 
 ## Medical Records - Deployment onto WebPage - HTML Conversion
 ![alt text](https://github.com/dsrichard97/web_dep/blob/main/Medical_records.png)
